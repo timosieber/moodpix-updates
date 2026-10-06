@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Moodpix</title>
+        <item>
+            <title>Version 1.1</title>
+            <pubDate>Tue, 06 Oct 2026 06:36:51 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.1-2/Moodpix-1.1-2.zip" length="4424560" type="application/octet-stream" sparkle:edSignature="pWWckxxiMW11b8Lj3on3aWLDZJ5xMCVMph1EN2DH5BRAaRkY8vwzNW7top6lmSXRX15LyxaUhKGGIzEqsBOVBg=="/>
+        </item>
+    </channel>
+</rss>
