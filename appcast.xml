@@ -3,6 +3,20 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.2.2</title>
+            <pubDate>Tue, 06 Oct 2026 16:57:54 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Moodpix 1.2.2 – wichtige Korrektur</h3>
+<ul>
+<li>Eine abgelaufene Anmeldung wird jetzt erkannt. Bisher konnte das Anlegen eines Events mit «Failed to create record» scheitern.</li>
+<li>Die Anmeldung verlängert sich bei Benutzung automatisch.</li>
+<li>Ist die Anmeldung abgelaufen, fragt die App klar nach einer neuen Anmeldung und verändert keine Daten.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.2.2-6/Moodpix-1.2.2-6.zip" length="5005617" type="application/octet-stream" sparkle:edSignature="i8yCJIXuzzGAuCjAFW693gVFZ/1yTJAHEvP214Jhxvl1F9gZ2kOuKZjvUDm+lLI9zh6dPnp4153ubcKxBDuHCw=="/>
+        </item>
+        <item>
             <title>Version 1.2.1</title>
             <pubDate>Tue, 06 Oct 2026 16:18:46 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
