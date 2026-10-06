@@ -3,6 +3,16 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.2.1</title>
+            <pubDate>Tue, 06 Oct 2026 16:18:46 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Moodpix 1.2.1</h3>
+<p>Testfreigabe der automatischen Update-Funktion. Inhaltlich gleich wie 1.2.</p>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.2.1-5/Moodpix-1.2.1-5.zip" length="4993530" type="application/octet-stream" sparkle:edSignature="SLcS2/8v9p3spPzG5pFwZCGZ4fbxDLKf0YymBGbsvuzG/rNDdCNNSI/NgPMkkAeGBYkehF49y7ScRDv/nlr4Cg=="/>
+        </item>
+        <item>
             <title>Version 1.2</title>
             <pubDate>Tue, 06 Oct 2026 10:28:38 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
