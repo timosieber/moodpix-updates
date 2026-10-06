@@ -3,6 +3,23 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.2</title>
+            <pubDate>Tue, 06 Oct 2026 10:28:38 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Moodpix 1.2</h3>
+<ul>
+<li>Mehrere Pausen pro Tag, wahlweise gleich an allen Tagen oder pro Tag einzeln. Pausen sind nicht buchbar.</li>
+<li>Mittagspause lässt sich wieder normal eintippen.</li>
+<li>Neue, übersichtliche Zusammenfassung vor dem Anlegen eines Events.</li>
+<li>Import aus Datei: PDF, Excel (.xlsx) und CSV, eigenes Fenster, jede Zeile korrigierbar, Probleme klar markiert.</li>
+<li>PDF-Import erkennt Datum ohne Jahr korrekt (vorher wurde der Vortag angenommen).</li>
+<li>Verständliche Fehlermeldungen beim Anlegen eines Events.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.2-4/Moodpix-1.2-4.zip" length="4993498" type="application/octet-stream" sparkle:edSignature="jrwqAYpg7T+YjdZ9Z5kuCIlI3qNSHzjbFuOI4U8e/JYa3cqiN9brizdXbP76jZ1ksxEoYSdmszJq9+cCYr6OCw=="/>
+        </item>
+        <item>
             <title>Version 1.1</title>
             <pubDate>Tue, 06 Oct 2026 06:38:25 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
