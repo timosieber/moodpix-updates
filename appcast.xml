@@ -3,6 +3,19 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.4</title>
+            <pubDate>Wed, 07 Oct 2026 11:49:21 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Neues Feld «Nach der Buchung» beim Erstellen und Bearbeiten eines Events: Dieser Text erscheint am Ende der Online-Buchung unter «Kurz vorher» und in der Bestätigungsmail.</li>
+<li>Einstellungen: neuer Abschnitt «Text nach der Buchung» mit einem Standardtext für Du- und einem für Sie-Anrede. Er gilt für alle Events ohne eigenen Text.</li>
+<li>Buchungsseite und Bestätigungsmail in schlichter Arial.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.4-8/Moodpix-1.4-8.zip" length="5329389" type="application/octet-stream" sparkle:edSignature="hmRQomcsbp/GbtEFcwtD2MGEhQevrg/fGDjEZ3k0zI86B82E22UIG9p5iHzDf3w56rXLbm+GJrf07XrDa87zBg=="/>
+        </item>
+        <item>
             <title>Version 1.3</title>
             <pubDate>Tue, 06 Oct 2026 18:09:13 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
