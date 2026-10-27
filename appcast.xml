@@ -3,6 +3,19 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.5</title>
+            <pubDate>Tue, 27 Oct 2026 21:34:11 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Bis zu 62 Tage pro Event, zum Beispiel Dezember und Januar zusammen. Der Buchungslink bleibt beim Erweitern gleich.</li>
+<li>Bestätigungsmail pro Event abschaltbar (Schalter «Bestätigungsmail» beim Bearbeiten des Events).</li>
+<li>Neu in der Event-Ansicht: «Belegung» mit gebuchten und freien Slots, für das ganze Event und pro Tag.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.5-9/Moodpix-1.5-9.zip" length="5360385" type="application/octet-stream" sparkle:edSignature="T3TFutVcVXwwCi/XxRz0yifV+4SALGHHbsGCCp9aJl8tV+eXpGXz0wCwYHW8Lo+/XPREhVoMwZxyX5i1nrQFBg=="/>
+        </item>
+        <item>
             <title>Version 1.4</title>
             <pubDate>Wed, 07 Oct 2026 11:49:21 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
