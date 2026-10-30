@@ -3,6 +3,19 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.9</title>
+            <pubDate>Fri, 30 Oct 2026 22:53:23 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Cockpit: Ein Klick auf eine bereits fotografierte Person (im Tagesplan oder über die Suche) öffnet «Aufnahme bearbeiten». Notiz sowie Start und Ende jeder Aufnahme lassen sich nachträglich anpassen.</li>
+<li>Neu: «Nochmals aufnehmen». Die Person kommt wieder auf die Bühne und bekommt eine weitere Aufnahme, die erste bleibt erhalten. Funktioniert auch ohne Internet.</li>
+<li>Fotozuordnung: Bilder aus allen Aufnahmen einer Person bekommen ihren Namen und werden fortlaufend nummeriert.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.9-13/Moodpix-1.9-13.zip" length="5589182" type="application/octet-stream" sparkle:edSignature="Y+1FqSFeZWTOifIglBDdV3DW8MKKZepdGK5QbvZNm4PDaj6UBaO9A5aKJXBpZiliqvE0zazfLCCR5+KTngUnCg=="/>
+        </item>
+        <item>
             <title>Version 1.8</title>
             <pubDate>Fri, 30 Oct 2026 21:51:58 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
