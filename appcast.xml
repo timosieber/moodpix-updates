@@ -3,6 +3,19 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.7</title>
+            <pubDate>Fri, 30 Oct 2026 16:35:16 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Import: Namenslisten aus Word werden jetzt richtig gelesen, auch wenn die Uhrzeit direkt vor dem Nachnamen steht (zum Beispiel «10:30 Muster | Anna | Funktion»).</li>
+<li>Die Spalte «Funktion» wird als Abteilung übernommen, «Name» neben «Vorname» als Nachname.</li>
+<li>Word-PDFs mit Schriftligaturen (zum Beispiel «ti» in «Fotoshooting») verschieben keine Buchstaben mehr.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.7-11/Moodpix-1.7-11.zip" length="5453818" type="application/octet-stream" sparkle:edSignature="KmXAfnteqjo5scMtz7vfTVgia+0JbspDli5qieSBjgF6HER758KyLHNq4RGisq82MebJeCvzukhaDBNKNgACAA=="/>
+        </item>
+        <item>
             <title>Version 1.6</title>
             <pubDate>Fri, 30 Oct 2026 15:20:48 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
