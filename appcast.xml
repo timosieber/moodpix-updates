@@ -3,6 +3,19 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.8</title>
+            <pubDate>Fri, 30 Oct 2026 21:51:58 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Neu im Tagesplan: «Absagen…» bei einer Buchung. Die Buchung bleibt als storniert sichtbar, der Platz ist sofort wieder frei. Mit «Absage zurücknehmen» lässt sie sich wieder aktivieren, solange der Platz frei ist.</li>
+<li>Absagen, Löschen und Umbuchen benachrichtigen die Person auf Wunsch per Mail: «Abgesagt» bzw. «Verschoben» mit alter und neuer Zeit. Das Häkchen ist vorgewählt, wenn die Bestätigungsmail beim Event eingeschaltet ist und eine Adresse hinterlegt ist.</li>
+<li>Kalender-Anhang: Bei einer Absage entfernt er den Termin, bei einer Verschiebung aktualisiert er ihn.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.8-12/Moodpix-1.8-12.zip" length="5486316" type="application/octet-stream" sparkle:edSignature="FnbS5bIyrwiGNly+KuKQNjCOaAH3PDh38jAc15OnHj1If3JigsGBBS3GOuTus+u8zRZjiytGK7TcqRkKAI4zBw=="/>
+        </item>
+        <item>
             <title>Version 1.7</title>
             <pubDate>Fri, 30 Oct 2026 16:35:16 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
