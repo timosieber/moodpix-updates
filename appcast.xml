@@ -3,6 +3,19 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.6</title>
+            <pubDate>Fri, 30 Oct 2026 15:20:48 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Neu im Tagesplan: «Umbuchen…» bei einer Buchung. Tag und Uhrzeit wählen, Name, Kontakt und Antworten bleiben erhalten.</li>
+<li>Auf Wunsch geht beim Umbuchen eine neue Bestätigungsmail mit der neuen Zeit an die Person.</li>
+<li>Bereits fotografierte, laufende und stornierte Buchungen lassen sich nicht umbuchen.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.6-10/Moodpix-1.6-10.zip" length="5437304" type="application/octet-stream" sparkle:edSignature="B8DoV5IemAjoivjG7L/PBu1IJ0iRC7DeOQzoBH8f80WgeL52Ghg3SvAt2qwYgn0hHZ3UWeSdsFjVZprcCaSWBw=="/>
+        </item>
+        <item>
             <title>Version 1.5</title>
             <pubDate>Tue, 27 Oct 2026 21:34:11 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
