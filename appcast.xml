@@ -3,6 +3,15 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.10</title>
+            <pubDate>Mon, 02 Nov 2026 18:16:42 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Einleitungssatz der Buchungsseite pro Event frei einstellbar (Schritt «Buchungsseite», mit «Standardsatz übernehmen»)</li></ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.10-14/Moodpix-1.10-14.zip" length="5606215" type="application/octet-stream" sparkle:edSignature="I1JRRPUzUcjwYGJB1T4Gs6ShXK/miqxDw2bUWlkDMzpmvnrNAx9lxDHbsOpR++f6UjCY5/puwdr+yJpT5732Dw=="/>
+        </item>
+        <item>
             <title>Version 1.9</title>
             <pubDate>Fri, 30 Oct 2026 22:53:23 +0000</pubDate>
             <sparkle:version>13</sparkle:version>
