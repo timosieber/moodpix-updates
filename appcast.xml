@@ -3,6 +3,20 @@
     <channel>
         <title>Moodpix</title>
         <item>
+            <title>Version 1.12</title>
+            <pubDate>Tue, 24 Nov 2026 17:50:58 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li><b>Papierkorb:</b> Gelöschte Events und Termine landen jetzt im Papierkorb und lassen sich 30 Tage lang mit einem Klick wiederherstellen. Den Papierkorb öffnest du über den Knopf «Papierkorb» in der Eventliste.</li>
+<li>Ein Event kommt mit allen Terminen und Formularfeldern zurück, die Links in den Bestätigungsmails funktionieren wieder. Beim Wiederherstellen geht keine E-Mail raus.</li>
+<li>Ein Termin, der mit Absage-Mail gelöscht wurde, kommt als abgesagt zurück und lässt sich danach wie gewohnt reaktivieren.</li>
+<li>Die Knöpfe über der Eventliste stehen jetzt in zwei Zeilen. «Buchungen exportieren…» heisst kürzer «Exportieren…».</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/timosieber/moodpix-updates/releases/download/v1.12-16/Moodpix-1.12-16.zip" length="5836113" type="application/octet-stream" sparkle:edSignature="IoA6PFKeq1w+GndiF5nFUTy16NL2Rgc+Qdm40TtT1auNrnJWouclmhkYQFEpCS5VQRmgcjtAQrB2IQQPowNlBQ=="/>
+        </item>
+        <item>
             <title>Version 1.11</title>
             <pubDate>Thu, 19 Nov 2026 05:47:24 +0000</pubDate>
             <sparkle:version>15</sparkle:version>
